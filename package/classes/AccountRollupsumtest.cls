@@ -2,7 +2,7 @@
 Public class AccountRollupsumtest{
 static testmethod void AccountRollupsumtestmethod(){
  Account acc = new Account();
- 
+ // test checkin
  acc.name = 'test account';
  acc.fax = '11111111';
  
